@@ -1,6 +1,7 @@
 New field
 New field in local
 New field in repositiry
+<<<<<<< HEAD
 New change in testing branch
 
 
@@ -11,3 +12,8 @@ new changes in testing branch. I use the same file and we are going to see what 
 *********************************************
 new change in example in fix branch
 >>>>>>> fix
+=======
+
+
+I want to merge this branch with master
+>>>>>>> newBranch
