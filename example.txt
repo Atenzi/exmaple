@@ -4,5 +4,10 @@ New field in repositiry
 New change in testing branch
 
 
+<<<<<<< HEAD
 ********************************
 new changes in testing branch. I use the same file and we are going to see what will happen with it.
+=======
+*********************************************
+new change in example in fix branch
+>>>>>>> fix
